@@ -6,7 +6,7 @@ public class step_Definition {
 
         System.out.println("Hi Anna");
 
-        System.out.println("GE Irina");
+        System.out.println("GE Irina, commit, merge");
 
     }
 
