@@ -8,7 +8,7 @@ public class step_Definition {
 
         System.out.println("GE Irina, commit, merge");
  String sre="Anna";
-
+        System.out.println("Finally");
 
     }
 
